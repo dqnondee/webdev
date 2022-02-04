@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        
+        <style> 
+        
+         h1{
+             color: rgb(100, 200, 0);
+         } 
+    
+         body {
+             background-color: rgb(0,250,144);
+         }
+         p {
+             color : rgb(255,255,255);
+         }
+         h1 {
+             color : rgb(255,122,234);
+         }
+
+        </style>
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature!</h1>
+        <h2> <em>Foxes are really cool!</em></h2>
+        <p> I really like foxes why?</p>
+        <ul>
+            <li> kind!
+        </ul>
+        
+       <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/duskpin-sapling.png" alt = "pic of fox" width = "150" hight = "150">
+        
+        <p>The <em>fox</em> is awesome because <strong>they are smart and cunning</strong>.</p>
+        
+    </body>
+</html>
